@@ -18,7 +18,7 @@ This script supports Mean Well power supplies from the **DRS** series that featu
 - **DRS-480-36**: 480W, 36V/13.3A
 - **DRS-480-48**: 480W, 48V/10A
 
-If your device is not listed but supports Modbus RTU, it might still work—feel free to test and report any issues!
+If your device is not listed but supports Modbus RTU, it might still work (edit modbus registers, device address etc.) — feel free to test and modify code!
 
 ## Modbus Configuration
 Since MeanWell power supplies support only **Modbus RTU**, an **Ethernet-to-Modbus RTU gateway** is required for remote communication over TCP/IP.
