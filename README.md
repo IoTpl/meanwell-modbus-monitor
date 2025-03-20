@@ -50,6 +50,6 @@ You have two options:
 ## Installation
 Clone the repository and run the script:
 ```sh
-git clone https://github.com/twoj-user/meanwell-modbus-monitor.git
+git clone https://github.com/IoTpl/meanwell-modbus-monitor.git
 cd meanwell-modbus-monitor
 python3 meanwell-modbus-monitor.py
