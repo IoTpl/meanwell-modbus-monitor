@@ -1,6 +1,6 @@
-# MeanWell Modbus Monitor
+# Mean Well Modbus Monitor
 
-A Python-based Modbus RTU monitor for MeanWell power supplies, using an Ethernet-to-Modbus RTU gateway.
+A Python-based Modbus RTU monitor for Mean Well power supplies, using an Ethernet-to-Modbus RTU gateway.
 
 ## Features
 - Reads voltage, current, and temperature data from MeanWell power supplies
